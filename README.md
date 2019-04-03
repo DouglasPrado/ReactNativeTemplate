@@ -27,6 +27,17 @@ yarn start
 
 To inject custom scripts and remove unnecessary files.
 
+```
+https://airbnb.io/lottie/#/react-native
+
+Open the Xcode project configuration and add the Lottie.framework as Embedded
+Binaries.
+```
+
+```
+Change name app.json for name project
+```
+
 ## Includes
 
 - [x] ESlint (extends Airbnb) v4.19.1
